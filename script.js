@@ -3,7 +3,7 @@ constructor(name) {
     this.name = name;
    
     }
-   
+     
 putInTheDocument(){
   var petsTable = document.getElementById("petsTable");
       var petTR = document.createElement("tr");
